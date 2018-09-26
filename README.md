@@ -33,6 +33,8 @@ The npm package contains the deployed addresses of the contracts, and also allow
 
 #### Install
 
+git clone https://github.com/amis-erc20/dydx
+
 ```
 npm install --save @dydxprotocol/protocol
 ```
